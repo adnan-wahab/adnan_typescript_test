@@ -1,9 +1,8 @@
 {
   "compilerOptions": {
-    "allowJs": false,
+    "allowJs": true,
     "allowUnreachableCode": false,
     "baseUrl": ".",
-    "declaration": true,
     "experimentalDecorators": true,
     "forceConsistentCasingInFileNames": true,
     "module": "commonjs",
